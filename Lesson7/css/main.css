@@ -1,0 +1,61 @@
+/*
+
+Your styles go here!
+
+Hint! You'll probably want to start by styling:
+  * <body>
+  * <article>
+  * <h1>
+  * <img>
+
+I've left some boilerplate below for you.
+
+*/
+
+body {
+  margin:0;
+  font-family: 'Roboto', sans-serif;
+}
+
+article {
+  width:50em;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-family: 'Lobster', 'Roboto', sans-serif;
+  font-size: 5em;
+  width:50em;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  width: 50em;
+  max-width: 100%;
+}
+
+footer {
+  width: 100%;
+  margin:0;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  text-align: center;
+  background-color: deepskyblue;
+}
+header {
+  width: 100%;
+  margin:0;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  background-color: deepskyblue;
+  margin-bottom: 2em;
+}
+.footer__item {
+  margin-right: 10px;
+}
+
